@@ -17,4 +17,7 @@
 ## 🔗 Future Enhancements  
 - 💡 **Handwriting Font Customization** – Choose from various handwriting styles.  
 - 💡 **Cloud Storage Integration** – Save generated PDFs online for easy access.  
-- 💡 **AI-Based Formatting** – Intelligent text alignment and spacing improvements.  
+- 💡 **AI-Based Formatting** – Intelligent text alignment and spacing improvements.
+![assign 1](https://github.com/user-attachments/assets/e1b86f46-e318-4fb0-81f0-71fb3df339c0)
+![assign2](https://github.com/user-attachments/assets/11aa1f18-5442-4d82-96d9-0a69b5f05576)
+![assign 3](https://github.com/user-attachments/assets/df687595-4104-42fb-af7c-a28779a8bbc8)
